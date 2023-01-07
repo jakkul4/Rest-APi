@@ -24,7 +24,7 @@ class PeopleRequest extends FormRequest
     public function rules()
     {
         return [
-            //
+            
         ];
     }
 }

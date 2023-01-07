@@ -8,7 +8,6 @@ use App\Http\Resources\peopleresource;
 
 class peoplecontroller extends Controller
 {
-   
     public function index()
     {
         $people=people::all();
